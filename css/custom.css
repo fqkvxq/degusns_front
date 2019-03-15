@@ -31,3 +31,16 @@
 .nav-bb {
     border-bottom: 1px solid #ECEFF1;
 }
+
+/* footer */
+
+.fa-home, .fa-plus-square, .fa-heart, .fa-user {
+    display: block;
+    padding: 15px;
+    font-size: 24px;
+}
+
+.footer-nav {
+    position: absolute;
+    bottom: 0;
+}
