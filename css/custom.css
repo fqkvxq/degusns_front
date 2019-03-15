@@ -1,0 +1,33 @@
+/* navbar */
+
+.nav-top {
+    background-color: #fff;
+    height:40px;
+}
+
+.nav-vertical-center {
+    padding-top: 8px;
+}
+
+.navbar-login {
+    font-size: 16px;
+    position: relative;
+    top: 9px;
+    font-weight: 100;
+}
+
+.nav-camera-icon {
+    font-size:24px;
+}
+
+.app-title {
+    font-size: initial;
+    display: inline-block;
+    position: relative;
+    bottom: 4px;
+    font-weight: 100;
+}
+
+.nav-bb {
+    border-bottom: 1px solid #ECEFF1;
+}
